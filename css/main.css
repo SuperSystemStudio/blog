@@ -1848,7 +1848,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2adaff;
+  background: #b52082;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2605,5 +2605,8 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("/images/timg.png");
+  background: url("http://thyrsi.com/t6/607/1542206742x2890186170.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
